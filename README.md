@@ -23,5 +23,6 @@ Hi,I'm Gautam Singh 🙌. Apart from that I love getting involved in Competitive
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=mrHola21&show_icons=true&hide_border=true&theme=vision-friendly-dark)
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+![mrHola's github stats](https://github-readme-stats.vercel.app/api?username=mrHola21&show_icons=true&hide_border=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHola21&langs_count=10)]
