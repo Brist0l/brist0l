@@ -5,7 +5,7 @@
 Hi,I'm Gautam Singh 🙌
 
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
