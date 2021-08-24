@@ -25,7 +25,7 @@ Hi,I'm Gautam Singh 🙌. Apart from that I love getting involved in Competitive
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
+<code><img height="30" src="![image](https://user-images.githubusercontent.com/66013271/130644482-0843af0d-6a2a-4401-88c4-d492981f0130.png)"></code>
 
 ![mrHola's github stats](https://github-readme-stats.vercel.app/api?username=mrHola21&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
