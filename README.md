@@ -2,7 +2,7 @@
 
 
 
-I'm Gautam Singh 🙌
+I'm Gautam 🙌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
