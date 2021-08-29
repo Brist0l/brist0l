@@ -2,7 +2,7 @@
 
 
 
-I'm Gautam 🙌 , I am interested in embedded systems , linux (Arch spefically).
+I'm Gautam 🙌 , I am interested in embedded systems , Linux (Arch spefically).
 
 
 **Talking about Personal Stuffs:**
