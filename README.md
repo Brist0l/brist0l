@@ -2,10 +2,7 @@
 
 
 
-I'm Gautam 🙌 , I like working with embedded systems.
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+I'm Gautam 🙌 , I am interested in embedded systems , linux (Arch spefically).
 
 
 **Talking about Personal Stuffs:**
