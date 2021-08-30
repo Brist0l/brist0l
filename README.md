@@ -1,30 +1,11 @@
-### Hello 👋 
+<h1 align="center">Hi 👋, I'm Gautam</h1>
+<h3 align="center">I am interested in Emmeded systems and Linux (Arch specifically)</h3>
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-I'm Gautam 🙌 , I am interested in embedded systems , Linux (Arch spefically).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrHola21&show_icons=true&locale=en&layout=compact" alt="mrHola21" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrHola21&show_icons=true&locale=en" alt="mrHola21" /></p>
 
-**Talking about Personal Stuffs:**
-
-- 🔭 I’m currently in High School.
-- 🌱 I’m currently learning C.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Discord 
-
-**Languages and Tools:**
-
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="![image](https://user-images.githubusercontent.com/66013271/130644538-29803180-5628-4947-b144-d7b5cd4253e6.png)"></code>
-
-![mrHola's github stats](https://github-readme-stats.vercel.app/api?username=mrHola21&show_icons=true&hide_border=true&theme=vision-friendly-dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHola21&langs_count=10&theme=vision-friendly-dark&show_icons=true&hide_border=true)
