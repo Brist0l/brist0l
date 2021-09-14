@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam</h1>
-<h3 align="center">I am interested in Emmeded systems and Linux (Arch specifically)</h3>
+<h3 align="center">I am interested in Emmeded systems and Linux (Arch specifically) and Operating Systems</h3>
 
 
 <h3 align="left">Currently learning : Flutter framework</h3>
