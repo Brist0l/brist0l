@@ -14,8 +14,8 @@
 
 
 <h3 align="left">You can reach me on:</h3>
-<p align="left">Discord:Pagan Min#1790</p>
+<p align="left">Discord:brist0l#1790</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrHola21&show_icons=true&locale=en&layout=compact" alt="mrHola21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brist0l&show_icons=true&locale=en&layout=compact" alt="Brist0l" /></p>
 
 
