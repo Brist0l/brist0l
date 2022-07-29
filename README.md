@@ -16,6 +16,6 @@
 <h3 align="left">You can reach me on:</h3>
 <p align="left">Discord:brist0l#1790</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brist0l&show_icons=true&locale=en&layout=compact" alt="Brist0l" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brist0l&show_icons=true&locale=en&layout=compact&show_icons=true" alt="Brist0l" /></p>
 
 
